@@ -1,5 +1,7 @@
 venv
 __pycache__
 
+.ruff_cache
+
 images
 converted_images
